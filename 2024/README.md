@@ -1,4 +1,6 @@
-# 30DayChartChallenge 2024
+# #30DayChartChallenge 2024
+![Challenge Prompts](./Prompts.png)
+
 
 ## Day 1: Part-to-whole
 ![Day 1 plot: Part-to-whole](./Day1_Part-to-whole.png)
