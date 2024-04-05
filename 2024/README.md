@@ -13,3 +13,6 @@
 
 ## Day 4: Waffle
 ![Day 4 plot: Waffle](./Day4_Waffle.png)
+
+## Day 5: Diverging
+![Day 5 plot: Diverging](./Day5_Diverging.png)
