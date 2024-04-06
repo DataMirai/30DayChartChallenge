@@ -16,3 +16,6 @@
 
 ## Day 5: Diverging
 ![Day 5 plot: Diverging](./Day5_Diverging.png)
+
+## Day 6: OECD (Data Day)
+![Day 6 plot: OECD](./Day6_OECD.png)
