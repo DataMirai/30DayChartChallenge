@@ -1,6 +1,6 @@
 # 30DayChartChallenge (2024 plots)
 
-### Everything has been made with R's ggplot2
+#### 📌Everything has been made with R's ggplot2
 
 ## Day 1: Part-to-whole
 ![Day 1 plot: Part-to-whole](./2024/Day1_Part-to-whole.png)
