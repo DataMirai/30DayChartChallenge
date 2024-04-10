@@ -19,3 +19,12 @@
 
 ## Day 6: OECD (Data Day)
 ![Day 6 plot: OECD](./Day6_OECD.png)
+
+## Day 7: Hazards
+![Day 7 plot: Hazards](./Day7_Hazards_final.png)
+
+## Day 8: Circular
+![Day 8 plot: Circular](./Day8_Circular.png)
+
+## Day 9: Major/Minor (Data Day)
+![Day 9 plot: Major/Minor](./Day9_MajorMinor.png)
